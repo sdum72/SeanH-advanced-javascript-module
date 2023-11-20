@@ -1,0 +1,35 @@
+body {
+    background-color: lightgreen;
+    display: flex;
+    /* padding: 30px; */
+    align-items: center;
+    justify-content:center ;
+    min-height: 100vh;
+    
+}
+
+.boxa {
+    background-color: white;
+    padding: 30px;
+}
+
+.boxa h2 {
+    text-align: center;
+    
+}
+
+.boxb {
+    border: 2px solid black;
+    width: 400px;
+    height: 50px;
+    font-size: 20px;
+}
+
+
+.boxd {
+    margin-top: 40px;
+    border: 2px solid black;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
