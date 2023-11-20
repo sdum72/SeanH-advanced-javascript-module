@@ -99,7 +99,7 @@ function getPasswordOptions() {
     alert("Your password will be " + passwordLength + " characters long")
   } else {
     console.log("not allowed")
-    alert("check that entry is an interger between 8 and 128")
+    alert("check that entry is an integer between 8 and 128")
   }
   return passwordLength  
 }
