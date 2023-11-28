@@ -29,3 +29,8 @@ If at least one of the prompts is selected, a password will be generated and wil
 •	A css file was provided to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes. 
 •	I coded the Javascript file to provide dynamic content to the application.
 
+## Screen shot
+
+![image](https://github.com/sdum72/05-advanced-javascript-module/assets/56514851/08a1e793-5167-4f77-a60e-4eda7a39acaf)
+
+
